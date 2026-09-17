@@ -11,7 +11,7 @@ import (
 	"connectrpc.com/connect/v2"
 	"google.golang.org/protobuf/types/known/wrapperspb"
 
-	"github.com/pbrpc/connect-testing/mocks/roundtripper"
+	"github.com/pbrpc/testing/mocks/roundtripper"
 )
 
 const procedure = "/example.ExampleService/Echo"
