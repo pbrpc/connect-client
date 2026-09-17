@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.1 - 2026-09-17
+#### Bug Fixes
+- use the write testing module - (fd93d07) - Nathan Blair
+
+- - -
+
 ## 0.1.0 - 2026-09-17
 #### Features
 - initial release - (e08d263) - Nathan Blair
